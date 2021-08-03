@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-hw-2-hooks-feedback/static/css/main.582c816e.chunk.css",
+    "main.js": "/react-hw-2-hooks-feedback/static/js/main.1762e87e.chunk.js",
+    "main.js.map": "/react-hw-2-hooks-feedback/static/js/main.1762e87e.chunk.js.map",
+    "runtime-main.js": "/react-hw-2-hooks-feedback/static/js/runtime-main.91fd3886.js",
+    "runtime-main.js.map": "/react-hw-2-hooks-feedback/static/js/runtime-main.91fd3886.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/react-hw-2-hooks-feedback/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.f52d158e.chunk.js": "/react-hw-2-hooks-feedback/static/js/2.f52d158e.chunk.js",
+    "static/js/2.f52d158e.chunk.js.map": "/react-hw-2-hooks-feedback/static/js/2.f52d158e.chunk.js.map",
+    "index.html": "/react-hw-2-hooks-feedback/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/react-hw-2-hooks-feedback/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.582c816e.chunk.css.map": "/react-hw-2-hooks-feedback/static/css/main.582c816e.chunk.css.map",
+    "static/js/2.f52d158e.chunk.js.LICENSE.txt": "/react-hw-2-hooks-feedback/static/js/2.f52d158e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91fd3886.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.f52d158e.chunk.js",
+    "static/css/main.582c816e.chunk.css",
+    "static/js/main.1762e87e.chunk.js"
+  ]
+}
